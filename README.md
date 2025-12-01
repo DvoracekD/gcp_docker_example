@@ -1,3 +1,2 @@
-# gcp_docker_example
-
-trigger test
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
